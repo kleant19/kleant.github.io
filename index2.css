@@ -1,0 +1,28 @@
+body{
+    background-image: url(Berat.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
+#P1 {
+    color: brown;
+}
+#P2{
+    border: 1.5px solid yellow ;
+}
+.klassadiv1{
+text-align: center;
+font-weight: 500;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+}
+.box-model-demo{
+    width: 300;
+    height: 300;
+    border: 1px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
